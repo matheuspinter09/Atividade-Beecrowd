@@ -22,3 +22,17 @@
 <img width="1086" height="671" alt="Image" src="https://github.com/user-attachments/assets/2dac3af7-3ba6-4122-b5af-41285b49e862" />
 
 **2613-Filmes em Promoção**
+<img width="539" height="323" alt="Image" src="https://github.com/user-attachments/assets/f7432161-1b65-4a08-9514-9fdbd789c0ad" />
+
+## Nível 3
+
+**2610-Valor Médio dos Produtos**
+<img width="1097" height="489" alt="Image" src="https://github.com/user-attachments/assets/cabfa99b-a780-48c8-82b8-a1135284dc02" />
+
+**2618-Produtos Importados**
+<img width="1086" height="688" alt="Image" src="https://github.com/user-attachments/assets/755cc57f-f6ea-4eae-83cb-f33ecff1f478" />
+
+## Nível 4
+
+**2602-Select Básico**
+<img width="1086" height="645" alt="Image" src="https://github.com/user-attachments/assets/b99a60d6-ea25-4f31-8d9e-adf595942350" />
